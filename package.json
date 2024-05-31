@@ -1,0 +1,19 @@
+{
+  "name": "starterkit-workflow",
+  "version": "0.1.0",
+  "description": "StarterKit workflow for Cyware",
+  "author": "Cyware Labs. <security@khulnasoft.com>",
+  "license": "CC0-1.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf dist/ && vite build"
+  },
+  "dependencies": {
+    "@cyware/sdk-workflow": "0.36.1",
+    "@cyware/dependency-example": "0.1.0"
+  },
+  "devDependencies": {
+    "typescript": "5.4.5",
+    "vite": "5.2.11"
+  }
+}
