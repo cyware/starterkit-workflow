@@ -9,8 +9,8 @@
     "build": "rm -rf dist/ && vite build"
   },
   "dependencies": {
-    "@cyware/sdk-workflow": "0.36.1",
-    "@cyware/dependency-example": "0.1.0"
+    "@cyware/sdk-workflow": "0.37.0",
+    "@cyware/dependency-example": "0.1.1"
   },
   "devDependencies": {
     "typescript": "5.4.5",
